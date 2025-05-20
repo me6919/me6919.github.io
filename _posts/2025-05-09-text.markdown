@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "text"
+subtitle:   " \"text\""
+date:       2025-05-04 10:08:56
+author:     "6919" 
+header-img: "img/in-post/text/text-eggy-s7.jpg"
+catalog: true
+tags:
+    - text
+---
+# 一级标题
+## 二级标题
+### 三级标题
+[之前BLOG](https://xiaohueiji.github.io/9619)
+**Markdown**
+* **Markdown** 
+* FIRST
+* SECOND
+* THIER
+* FOURTH
