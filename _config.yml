@@ -91,5 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "6919 blog", href: "http://me6919.github.io" }，
     { title: "6919", href: "http://me6919.dpdns.org" }
   ]
