@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "debug(2)"
+subtitle:   "debug(2)"
+date:       2025-05-25 15:57:00
+author:     "6919"
+header-img: "img/home-bg.jpg"
+tags:
+    - debug
+---
+
+> 代码语法
+`代码语法`
+``代码语法``
+```
+代码语法
+代码语法
+代码语法
+代码语法
+```
+> 分隔线
+***
+
+---
+
+____________________
+
+> 链接
+这是一个链接 [6919 BLOG](https://me6919.github.io)。
+
+这是一个链接 [6919 BLOG](https://me6919.github.io "6919 blog")。
+> 网址和Email地址
+<https://me6919.github.io>
+*********************************************
+<me6919@me6919.dpdns.org>
+> 带格式化的链接
+6919 **[blog](https://me6919.github.io)**.
+This is the *[6919](https://me6919.github.io)*.
+[`6919 blog`](https://me6919.github.io).
+> 图片
+![这是图片](/img/home-bg.jpg "6919")
+[![6919](img/6919.jpg "6919")](https://me6919.github.io)
+
+### DEBUG END
