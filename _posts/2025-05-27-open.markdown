@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "open"
+subtitle:   "open"
+date:       2025-05-27 20:04:00
+author:     "6919"
+header-img: "img/home-bg.jpg"
+tags:
+    - start
+---
+> Yes,my blog opened!
+#### 这回6919的博客开通了！
+之前已经发过一次了，但是只测试一次，这回已经调试两次了  
+[第一次测试](https://me6919.github.io/2025/05/04/text/),[第一次调试](https://me6919.github.io/2025/05/24/debug(1)/),[第二次调试](https://me6919.github.io/2025/05/25/debug(2)/)
+### 正文
+这回6919可算能写点东西了...  
+2025年5月27日20时04分由6919写作
