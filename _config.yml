@@ -2,7 +2,7 @@
 title: 6919 Blog
 SEOTitle: 6919的博客 | 6919 Blog
 header-img: img/home-bg.jpg
-email:
+email: me6919@me6919.dpdns.org
 description: ""
 keyword: ""
 url: "" # your host, for absolute URL
@@ -62,7 +62,7 @@ kramdown:
 #disqus_username: 
 
 # Netease settings
-netease_comment: false
+netease_comment: true
 
 # Analytics settings
 # Baidu Analytics
@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "6919"
-sidebar-avatar: img/6919.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/6919.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
