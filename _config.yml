@@ -1,6 +1,6 @@
 # Site settings
-title: 6919 Blog
-SEOTitle: 6919的博客 | 6919 Blog
+title: ME6919 Blog
+SEOTitle: ME6919的博客 | ME6919 Blog
 header-img: img/home-bg.jpg
 email: me6919@me6919.dpdns.org
 description: ""
@@ -74,8 +74,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "6919"
-sidebar-avatar: /img/6919.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "ME6919"
+sidebar-avatar: /img/ME6919.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,7 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "6919 blog", href: "http://me6919.github.io" },
-    { title: "6919", href: "http://me6919.dpdns.org" },
+    { title: "ME6919 blog", href: "http://me6919.github.io" },
     { title: "离线", href: "http://me6919.github.io/offline.html" }
   ]
