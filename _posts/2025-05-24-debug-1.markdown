@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "debug(1)"
-subtitle:   "debug(1)"
+title:      "debug-1"
+subtitle:   "debug-1"
 date:       2025-05-24 15:57:00
-author:     "6919"
+author:     "ME6919"
 header-img: "img/home-bg.jpg"
 tags:
     - debug
