@@ -3,7 +3,7 @@ layout:     post
 title:      "text"
 subtitle:   " \"text\""
 date:       2025-05-04 10:08:56
-author:     "6919" 
+author:     "ME6919" 
 header-img: "img/in-post/text/text-eggy-s7.jpg"
 catalog: true
 tags:
