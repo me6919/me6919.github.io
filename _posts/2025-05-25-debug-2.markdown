@@ -8,8 +8,7 @@ header-img: "img/home-bg.jpg"
 tags:
     - debug
 ---
-
-> 代码语法
+`代码语法`  
 `代码语法`
 ``代码语法``
 ```
@@ -18,27 +17,27 @@ tags:
 代码语法
 代码语法
 ```
-> 分隔线
+`分隔线`  
 ***
 
 ---
 
 ____________________
 
-> 链接
+`链接`  
 这是一个链接 [ME6919 BLOG](https://me6919.github.io)。
 
 这是一个链接 [ME6919 BLOG](https://me6919.github.io "6919 blog")。
-> 网址和Email地址
+`网址和Email地址`  
 <https://me6919.github.io>
 *********************************************
 <me6919@me6919.dpdns.org>
-> 带格式化的链接
+`带格式化的链接` 
 ME6919 **[ME6919 blog](https://me6919.github.io)**.
 This is the *[ME6919](https://me6919.github.io)*.
 [`ME6919 blog`](https://me6919.github.io).
-> 图片
+`图片`  
 ![这是图片](/img/home-bg.jpg "6919")
-[![ME6919](img/ME6919.jpg "ME6919")](https://me6919.github.io)
+[![ME6919](img/home-bg.jpg "ME6919")](https://me6919.github.io)
 
 ### DEBUG END
