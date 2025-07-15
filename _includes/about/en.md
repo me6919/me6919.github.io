@@ -1,6 +1,7 @@
 ### personal data  
 NAME:ME6919  
 Constellation:Pisces  
+Email:a@me6919.xx.kg
 ---
 ### Why is it called ME6919?   
 In 2019, I registered an account with the initial name `User 691958566331`.  
